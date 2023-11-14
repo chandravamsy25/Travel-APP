@@ -41,7 +41,7 @@
 
   <p align="center">
   <img width="200" src="https://github.com/chandravamsy25/Travel-APP/assets/90548992/00eb9f48-1383-4bdc-ab34-9e478116672c">
-  <img width="200" src="https://github.com/chandravamsy25/Travel-APP/assets/90548992/94c3401d-8aa9-4e32-ba90-e4e70d993d73">
+  
   <img width="200" src="https://github.com/chandravamsy25/Travel-APP/assets/90548992/5eb79728-c654-48b4-be02-d3349b858729">
   <img width="200" src="https://github.com/chandravamsy25/Travel-APP/assets/90548992/a59b4309-9521-41a3-b318-b7a64b9ff5c5">
 </p>
