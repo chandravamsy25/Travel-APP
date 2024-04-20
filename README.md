@@ -73,12 +73,6 @@ Open the project in Android studio  and run MainActivity.kt file .
 Dive into Wanderlust, discover new destinations, and plan your dream trips hassle-free!
 
 
-## 🌟 Team
 
-### 👤 **[Agrima5115](https://github.com/Agrima5115)**
-
-### 👩‍💻 **[sneha-1003](https://github.com/sneha-1003)**
-
-### 🚀 **[NarasimhanHari2004](https://github.com/NarasimhanHari2004)**
 
 
