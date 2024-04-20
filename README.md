@@ -67,7 +67,7 @@ Follow these simple steps to get started with Wanderlust:
   git clone https://github.com/your-username/wanderlust.git
 
 **Build and Run:**
-Open the project in your favorite IDE and run the app on your device or emulator.
+Open the project in Android studio  and run MainActivity.kt file .
 
 **Start Exploring:**
 Dive into Wanderlust, discover new destinations, and plan your dream trips hassle-free!
