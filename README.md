@@ -20,7 +20,7 @@
   <a href="#features">Features</a> •
   <a href="#screenshots">Screens</a> •
   <a href="#getting-started">Getting Started</a> •
-  <a href="#team">Team</a> •
+
   
 </p>
 
